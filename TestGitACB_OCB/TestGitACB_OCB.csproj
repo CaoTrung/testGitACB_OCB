@@ -112,11 +112,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-
-
     <Compile Include="Areas\Admin\AdminAreaRegistration.cs" />
     <Compile Include="Areas\Admin\Controllers\HomeAdminController.cs" />
-
+    <Compile Include="Areas\Admin\Controllers\TestController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -139,10 +137,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-
-
     <Folder Include="Areas\Admin\Models\" />
-
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
@@ -151,7 +146,6 @@
   <ItemGroup>
     <Content Include="Views\Home\Index.cshtml" />
   </ItemGroup>
-
   <ItemGroup>
     <Content Include="Areas\Admin\Views\Web.config" />
   </ItemGroup>
@@ -161,7 +155,9 @@
   <ItemGroup>
     <Content Include="Areas\Admin\Views\HomeAdmin\Index.cshtml" />
   </ItemGroup>
-
+  <ItemGroup>
+    <Content Include="Areas\Admin\Views\Test\Index.cshtml" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
