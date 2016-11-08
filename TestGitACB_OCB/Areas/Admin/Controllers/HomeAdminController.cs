@@ -4,12 +4,12 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace TestGitACB_OCB.Controllers
+namespace TestGitACB_OCB.Areas.Admin.Controllers
 {
-    public class HomeController : Controller
+    public class HomeAdminController : Controller
     {
         //
-        // GET: /Home/
+        // GET: /Admin/HomeAdmin/
 
         public ActionResult Index()
         {
@@ -17,7 +17,7 @@ namespace TestGitACB_OCB.Controllers
         }
 
         //
-        // GET: /Home/Details/5
+        // GET: /Admin/HomeAdmin/Details/5
 
         public ActionResult Details(int id)
         {
@@ -25,7 +25,7 @@ namespace TestGitACB_OCB.Controllers
         }
 
         //
-        // GET: /Home/Create
+        // GET: /Admin/HomeAdmin/Create
 
         public ActionResult Create()
         {
@@ -33,7 +33,7 @@ namespace TestGitACB_OCB.Controllers
         }
 
         //
-        // POST: /Home/Create
+        // POST: /Admin/HomeAdmin/Create
 
         [HttpPost]
         public ActionResult Create(FormCollection collection)
@@ -51,7 +51,7 @@ namespace TestGitACB_OCB.Controllers
         }
 
         //
-        // GET: /Home/Edit/5
+        // GET: /Admin/HomeAdmin/Edit/5
 
         public ActionResult Edit(int id)
         {
@@ -59,7 +59,7 @@ namespace TestGitACB_OCB.Controllers
         }
 
         //
-        // POST: /Home/Edit/5
+        // POST: /Admin/HomeAdmin/Edit/5
 
         [HttpPost]
         public ActionResult Edit(int id, FormCollection collection)
@@ -77,7 +77,7 @@ namespace TestGitACB_OCB.Controllers
         }
 
         //
-        // GET: /Home/Delete/5
+        // GET: /Admin/HomeAdmin/Delete/5
 
         public ActionResult Delete(int id)
         {
@@ -85,7 +85,7 @@ namespace TestGitACB_OCB.Controllers
         }
 
         //
-        // POST: /Home/Delete/5
+        // POST: /Admin/HomeAdmin/Delete/5
 
         [HttpPost]
         public ActionResult Delete(int id, FormCollection collection)
