@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Starbucks\Desktop\Tn2\TestGitACB_OCB\bin\TestGitACB_OCB.dll.config
 C:\Users\Starbucks\Desktop\Tn2\TestGitACB_OCB\bin\TestGitACB_OCB.dll
 C:\Users\Starbucks\Desktop\Tn2\TestGitACB_OCB\bin\TestGitACB_OCB.pdb
@@ -30,3 +31,37 @@ C:\Users\Starbucks\Desktop\Tn2\TestGitACB_OCB\bin\System.Web.WebPages.Razor.xml
 C:\Users\Starbucks\Desktop\Tn2\TestGitACB_OCB\obj\Debug\TestGitACB_OCB.csprojResolveAssemblyReference.cache
 C:\Users\Starbucks\Desktop\Tn2\TestGitACB_OCB\obj\Debug\TestGitACB_OCB.dll
 C:\Users\Starbucks\Desktop\Tn2\TestGitACB_OCB\obj\Debug\TestGitACB_OCB.pdb
+=======
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\TestGitACB_OCB.dll.config
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\TestGitACB_OCB.dll
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\TestGitACB_OCB.pdb
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\Newtonsoft.Json.dll
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\System.Net.Http.dll
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\System.Net.Http.Formatting.dll
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\System.Net.Http.WebRequest.dll
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\System.Web.Helpers.dll
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\System.Web.Http.dll
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\System.Web.Http.WebHost.dll
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\System.Web.Mvc.dll
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\System.Web.Razor.dll
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\System.Web.WebPages.dll
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\System.Web.WebPages.Razor.dll
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\Newtonsoft.Json.xml
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\System.Net.Http.xml
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\System.Net.Http.Formatting.xml
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\System.Net.Http.WebRequest.xml
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\System.Web.Helpers.xml
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\System.Web.Http.xml
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\System.Web.Http.WebHost.xml
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\System.Web.Mvc.xml
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\System.Web.Razor.xml
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\System.Web.WebPages.xml
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\bin\System.Web.WebPages.Razor.xml
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\obj\Debug\TestGitACB_OCB.csprojResolveAssemblyReference.cache
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\obj\Debug\TestGitACB_OCB.dll
+C:\Users\WINDOWS 10\Documents\testGitACB_OCB\TestGitACB_OCB\obj\Debug\TestGitACB_OCB.pdb
+>>>>>>> Nhom_ACB_OCB
